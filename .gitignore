@@ -1,0 +1,4 @@
+bin/**
+obj/**
+client_secrets.json
+key.p12

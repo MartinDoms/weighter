@@ -1,0 +1,1 @@
+dotnet publish -r win10-x64 -c release -o c:\tools\weighter-bin
